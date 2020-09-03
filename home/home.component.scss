@@ -1,0 +1,40 @@
+
+.header {
+    padding-top: 2em;
+    border-bottom:  solid black;
+
+}
+
+.image1{
+
+    img{
+        border-radius: 50%;
+        width: 300px;
+        position: absolute;
+        top: 250px;
+        left: 40%;
+    }
+}
+
+
+.bod{
+    p {
+        color:rgb(20, 20, 20);
+        position: absolute;
+        max-width: 620px;
+        top: 90%;
+        left: 25%;
+        list-style: none;
+        text-align: center;
+
+    }
+}
+
+body{
+    padding-bottom: 40em;
+
+}
+
+
+
+
